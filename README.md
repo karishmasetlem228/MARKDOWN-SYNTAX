@@ -11,10 +11,10 @@ _karishma_
 ## nested blockquote
 > tum mile dil khile aur jeene ka kya chahiye
 ## ordered list
-1.eee
+1. eee
    1. we have 31 students
-2.eee
+2. eee
     1. my roll number is 28
-3.my class
-    1.shali's roll number is 205 
-    2.and she is lateral
+3. my class
+    1. shali's roll number is 205 
+    2. and she is lateral
