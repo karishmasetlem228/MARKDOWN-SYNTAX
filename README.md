@@ -1,2 +1,8 @@
 # MARKDOWN-SYNTAX
-github workshop day2
+## bold
+lovely smile
+_shalini_
+## bold and italic
+
+_cutiepie_
+_karishma_
