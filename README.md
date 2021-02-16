@@ -23,3 +23,14 @@ _karishma_
    * shali is a kantri girl 
    * but she is good kantri girl
    * that's why she is a beautiful girl    
+## code
+```
+#include<stdio.h>
+ int ;
+{
+printf("hello shali\n");
+}
+```
+```
+fun()
+```
