@@ -34,3 +34,14 @@ printf("hello shali\n");
 ```
 fun()
 ```
+## c program to say hello to apssdc
+```
+#include<stdio.h>
+int main();
+{
+printf("hello apssdc trainers\n");
+}
+```
+```
+int()
+```
