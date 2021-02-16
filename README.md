@@ -57,3 +57,5 @@ int()
 [kits college](https://www.kits-anna.com)
 ## gmail link
 [kari](https://www.karishmasetlem@gmail.com)
+## inserted image
+![pic](https://github.com/karishmasetlem228/MARKDOWN-SYNTAX/blob/master/yogi.jpg)
