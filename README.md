@@ -33,6 +33,12 @@ printf("hello shali\n");
 ```
 ```
 fun()
+
+
+
+
+
+
 ```
 ## c program to say hello to apssdc
 ```
@@ -45,3 +51,5 @@ printf("hello apssdc trainers\n");
 ```
 int()
 ```
+## link
+[markdown](https://www.markdownguide.org/cheat-sheet/)
