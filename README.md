@@ -56,4 +56,4 @@ int()
 ## college website link 
 [kits college](https://www.kits-anna.com)
 ## gmail link
-[kari](https://www.karishmasetlem@gmial.com)
+[kari](https://www.karishmasetlem@gmail.com)
