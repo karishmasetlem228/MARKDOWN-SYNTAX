@@ -53,3 +53,7 @@ int()
 ```
 ## link
 [markdown](https://www.markdownguide.org/cheat-sheet/)
+## college website link 
+[kits college](https://www.kits-anna.com)
+## gmail link
+[kari](https://www.karishmasetlem@gmial.com)
